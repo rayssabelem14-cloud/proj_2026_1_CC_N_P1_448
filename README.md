@@ -1,4 +1,4 @@
-# Projeto de Extensão - 2025.2
+# Projeto de Extensão - 2026.1
 
 ## 🔹 1. Sobre o Projeto Currículo
 O Projeto Curriculo da turma do P1 de 2026.1 da disciplina de Tópicos Essenciais para Programação do turno da tarde, tem como objetivo trabalhar em grupo e com a utilização de uma ferramenta que é fundamental para o desenvolvedor, o GitHub, onde em sua funcionalidade utilizando o Fork é possível realizar a colaboração em um repositório único para todos da turma. Nele será disponibilizado um modelo de currículo, onde os alunos devem baixar, fazer as alterações, salvar e enviar novamente para o repositório, utilizando também o recurso de _"Pull requests"_.
